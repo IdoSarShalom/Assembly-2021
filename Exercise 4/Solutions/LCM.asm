@@ -1,8 +1,7 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; LCM.asm
 ; due to 04/06/2021
-; Tomer griba  325105625
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom   
 ; Description: This code finds the longest common subsequence of two strings
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model small
