@@ -1,9 +1,8 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-; Ex2_2.asm
-; Part 2
+; Part2_Question4_B.asm
 ; due to 14/04/2021
 ; Ido Sar Shalom  212410146
-; Description: this code prints the painting in AsciiArt2. This code is part 2 of  question 4
+; Description: this code prints the painting in AsciiArt2. Section B of question 4
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model small
 
