@@ -1,8 +1,7 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; printAXh.asm
 ; due to 13/05/2021
-; Tomer griba  	325105625
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom   
 ; Description: This code prints the value of register AX in Hexadecimal representation 
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model small
