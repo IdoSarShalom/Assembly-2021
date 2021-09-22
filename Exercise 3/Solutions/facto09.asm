@@ -1,8 +1,7 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; factoID.asm
 ; due to 13/05/2021
-; Tomer griba  325105625
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom   
 ; Description: This code calculates the sum of the series (x+1)! from 0 to 9 
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model small
@@ -15,7 +14,7 @@
 	mulOperand dw 0000h 	
 	
 	; calculate: 1!+2!+3!+4!+5!+6!+7!+8!+9!+10! = 4,037,913d = 3D9D19h > 65535d ---> the multiply result CAN NOT (!) be presented with 16 bits (1word)
-	; we'll use DOUBLE WORD (32 bits) to present the multiply result so the maximum value is 2^(32)-1 = 4,294,967,295
+	; we'll use DOUBLE WORD (32 bits) to represent the multiply result so the maximum value is 2^(32)-1 = 4,294,967,295
 	
 	sum dd 00000000h
 	
@@ -118,8 +117,6 @@ START:
 	xor dx,dx
 	
 	loop MulLoop
-	
-	
 	
 	;*************PRINT THE FIRST AND THE SECOND WORD OF SUM VARIABLE TO THE SCREEN USING EX1*************
 	mov ax, WORD PTR ds:[sum+02h] 
