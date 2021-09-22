@@ -1,8 +1,7 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-; conway1.asm
+; Conway_Game_Part1.asm
 ; due to 15/06/2021
-; Tomer griba  325105625
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom   
 ; Description: This code handles the selection mode of the Conway's Game of Life, 
 ; and measures the time from the beginning of the selection mode until the player has finished.
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
