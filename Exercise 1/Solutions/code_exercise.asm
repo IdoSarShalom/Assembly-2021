@@ -1,5 +1,5 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-; Ex1.asm
+; Part2_Code.asm
 ; due to 05/04/2021
 ; Ido Sar Shalom   212410146
 ; Description: This code generates in the middle of the DOS-BOX screen half rectangle below half rectangle 
@@ -60,4 +60,3 @@
  mov ax, 4c00h
  int 21h
 end
-
