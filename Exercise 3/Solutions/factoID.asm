@@ -1,7 +1,7 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; factoID.asm
 ; due to 13/05/2021
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom   
 ; Description: This code calculates the sum of the series (x+1)! from n1 to n2 
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model small
