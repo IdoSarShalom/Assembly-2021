@@ -1,10 +1,9 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; adfile.asm
 ; due to 30/06/2021
-; Tomer griba  325105625
 ; Ido Sar Shalom   212410146
 ; Description: This code handles the ads in the game of Conway Game of Life.
-; The ads apperearce in the middle of the DOS-screen when exiting the game
+; The ads appear in the middle of the DOS-screen when exiting the game
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model tiny
 
@@ -167,4 +166,3 @@
 	mov dx, 01EEh  ; save the amount of bytes in the memory from the beginning of the PSP 
 	int 27h
 end HERE
-
