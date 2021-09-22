@@ -3,7 +3,7 @@
 ; Part 3
 ; due to 14/04/2021
 ; Ido Sar Shalom  212410146
-; Description: this code prints the painting in BaskiArt1. This code is part 3 of  question 4
+; Description: this code prints the painting in BaskiArt1. Section C of question 4
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model small
 
