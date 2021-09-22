@@ -1,14 +1,13 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-; conway3.asm
+; Conway_Game_With_Ad.asm
 ; due to 30/06/2021
-; Tomer griba  325105625
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom   
 ; Description: This code handles the full game of Conway Game of Life.
 ; Includes everything in it: the selection mode, measures the time from the beginning of the selection mode until the player has finished.
 ; modify each generation of the game, handles the keyboard in the game(press p to Pause the game, and e to exit the game). 
 ; The player can run the game with or without ads in the middle of the DOS-screen
 ; By default the game runs with ads, to run it with no ads the player must enter the argument NO_ADS in the command line string
-; The ad apperearce in the middle of the DOS-screen when exiting the game
+; The ad appear in the middle of the DOS-screen when exiting the game
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model small
 
