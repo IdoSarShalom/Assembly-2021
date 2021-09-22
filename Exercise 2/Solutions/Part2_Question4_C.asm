@@ -1,6 +1,5 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-; Ex2_3.asm
-; Part 3
+; Part2_Question4_C.asm
 ; due to 14/04/2021
 ; Ido Sar Shalom  212410146
 ; Description: this code prints the painting in BaskiArt1. Section C of question 4
