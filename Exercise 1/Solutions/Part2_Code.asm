@@ -1,7 +1,7 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; Part2_Code.asm
 ; due to 05/04/2021
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom  
 ; Description: This code generates in the middle of the DOS-BOX screen half rectangle below half rectangle 
 ; each rectangle accordinate to student id 
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
