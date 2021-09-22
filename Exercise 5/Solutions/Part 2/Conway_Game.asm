@@ -1,5 +1,5 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-; conway2.asm
+; Conway_Game.asm
 ; due to 20/06/2021
 ; Ido Sar Shalom   
 ; Description: This code handles the full game of Conway Game of Life.
