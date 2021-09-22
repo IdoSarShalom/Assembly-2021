@@ -1,7 +1,6 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; conway2.asm
 ; due to 20/06/2021
-; Tomer griba  325105625
 ; Ido Sar Shalom   212410146
 ; Description: This code handles the full game of Conway Game of Life.
 ; Includes everything in it: the selection mode, measures the time from the beginning of the selection mode until the player has finished.
