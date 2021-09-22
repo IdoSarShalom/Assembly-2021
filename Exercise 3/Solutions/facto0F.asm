@@ -1,8 +1,7 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; factor0F.asm
 ; due to 13/05/2021
-; Tomer griba  325105625
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom   
 ; Description: this code calculate and print to the screen the result of the sum(1! + 2! + ....+16!)
 ; This code uses external loop and internal loop to calculate the sum 
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +81,6 @@ START:
 		
 		LOOP OUTLOOP
 		
-		
 		; print to screen (used the code of part 1 with changes and modifications)
 		; Please note that the numbers near the push, pop represents the number of registers in the stack and wether or not it went up in the last time (+/-)
 		push ax											;1+
@@ -135,7 +133,6 @@ START:
 		mov al, Dictionary_1[si]
 		mov es:[di], ax
 		add di, 2
-		
 		
 		pop ax												;1-				; stack: ax				
 		push ax		;1+														; stack: bx, ax
@@ -200,8 +197,6 @@ START:
 		mov al, 'h'
 		mov es:[di], ax
 		
-	
-	
 	mov ax, 4c00h
 	int 21h
 end START
