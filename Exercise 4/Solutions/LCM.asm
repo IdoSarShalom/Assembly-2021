@@ -7,6 +7,7 @@
 .model small
 
 .data
+
 	M db 'Message 1 goes here!'
 	N db 'Message 2 will be here :)'
 	
