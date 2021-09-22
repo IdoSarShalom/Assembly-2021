@@ -1,13 +1,13 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; PrintStk.asm
 ; due to 04/06/2021
-; Tomer griba  325105625
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom   
 ; Description: This code prints the content of the stack to the DOS-BOX screen 
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model small
 
 .data
+
 	Dictionary 	db '0', '1', '2', '3', '4', '5', '6', '7', '8', "9", 'A', 'B', 'C', 'D', 'E', 'F'
 	lowBits db 00001111b  ;4 low bits of 1byte   
 	highBits db 11110000b  ;4 high bits of 1byte
