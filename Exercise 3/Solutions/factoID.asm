@@ -1,7 +1,6 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; factoID.asm
 ; due to 13/05/2021
-; Tomer griba  325105625
 ; Ido Sar Shalom   212410146
 ; Description: This code calculates the sum of the series (x+1)! from n1 to n2 
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
