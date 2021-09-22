@@ -1,7 +1,7 @@
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ; conway2.asm
 ; due to 20/06/2021
-; Ido Sar Shalom   212410146
+; Ido Sar Shalom   
 ; Description: This code handles the full game of Conway Game of Life.
 ; Includes everything in it: the selection mode, measures the time from the beginning of the selection mode until the player has finished.
 ; modify each generation of the game, handles the keyboard in the game(press p to Pause the game, and e to exit the game). 
