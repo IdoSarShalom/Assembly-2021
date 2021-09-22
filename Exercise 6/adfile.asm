@@ -3,7 +3,7 @@
 ; due to 30/06/2021
 ; Ido Sar Shalom   
 ; Description: This code handles the ads in the game of Conway Game of Life.
-; The ads appear in the middle of the DOS-screen when exiting the game
+; The ad appear in the middle of the DOS-screen when exiting the game
 ; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .model tiny
 
