@@ -9,4 +9,4 @@ c:
 ml /Zm Prog1.asm ⇒ −𝑐𝑜𝑚𝑝𝑖𝑙𝑖𝑛𝑔 & 𝐿𝑖𝑛𝑘𝑎𝑔𝑒
 (CV) Prog1.exe ⇒ 𝑅𝑢𝑛 𝑝𝑟𝑜𝑔𝑟𝑎𝑚 
 
-For more details see the lectures and rehearsal pdf files
+For more details see the lectures and practice pdf files
